@@ -1,0 +1,13 @@
+----------------------------
+HOTEL RESERVATION ACCOUNT INFORMATION
+----------------------------
+Name: Darel Briones
+Email/Num.: darel
+Password: darel
+Gender: MALE
+Course: BSIT
+HOBBIES: 
+Reading
+Study
+Playing Online Games
+--------------------------
